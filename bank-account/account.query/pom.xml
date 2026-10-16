@@ -15,6 +15,7 @@
 	<description>Bank Account Query API Project</description>
 	<properties>
 		<java.version>16</java.version>
+		<lombok.version>1.18.34</lombok.version>
 	</properties>
 	<dependencies>
 		<dependency>
